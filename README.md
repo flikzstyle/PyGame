@@ -3,11 +3,13 @@
 
 Как запустить:
 git clone https://github.com/flikzstyle/PyGame.git
+
 cd PyGame
 
 для WSL/Linux/MacOs: 
 
 python3 -m venv venv
+
 source venv/bin/activate
 
 pip install -r requirements.txt
